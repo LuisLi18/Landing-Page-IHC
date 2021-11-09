@@ -1,0 +1,82 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin-top: 2px;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: white;
+}
+.margen{
+    margin-right: 50px;
+}
+.size{
+    font-size: 20px;
+}
+.btn-success{
+    background-color:forestgreen;
+    text-transform: uppercase;
+}
+.btn-success:hover{
+    background-color: #5ACD47;
+}
+li a{
+    text-transform: capitalize;
+}
+.margen button{
+    width: 110px;
+    margin-left: 200px;
+}
+.seccion-home-1 h1{
+    font-size: 20px;  
+    font-weight: 800;
+    text-align: center;
+}
+.seccion-home-1 p{
+    text-align: center;
+}
+.seccion-home-1 button{
+    margin-left: 120px;
+    text-transform: uppercase;
+}
+.seccion-home-1 img{
+    position: relative;
+    bottom: 300px;
+}
+.orden{
+    margin-top: 80px;
+}
+.orden img{
+    position: relative;
+    top:100px;
+    right: 250px;
+}
+.box{
+    background-color: #F7F7F7;
+    position: relative;
+    bottom: 140px;
+}
+.seccion-home-2 section{
+    position: relative;
+    left: 55%;
+    bottom: 360px;
+}
+.seccion-home-2 img{
+    position: relative;
+    top: 90px;
+    right: 20px;
+}
+.seccion-home-2 p{
+    text-align: justify;
+}
+.seccion-home-3 h1{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.seccion-home-3 .row{
+    text-align: center;
+}
+.justificar{
+    text-align: justify;
+}
